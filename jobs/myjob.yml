@@ -19,7 +19,7 @@ resources:
       tasks:
         - task_key: job1
           notebook_task:
-            notebook_path: /Workspace/Users/justpraveenm@gmail.com/Notebook1
+            notebook_path: ../pbx/nb1.ipynb
             source: WORKSPACE
       queue:
         enabled: true
